@@ -1,0 +1,17 @@
+Infrastructure as Code (IaC): Define and manage infrastructure through code, enabling version control, reproducibility, and automation.
+
+Version Control: Track infrastructure changes using Git, providing a history of changes, facilitating collaboration, and enabling rollbacks if necessary.
+
+Automation: Automate provisioning, updating, and deleting of infrastructure resources, reducing manual intervention and minimizing errors.
+
+Collaboration: Teams can propose, review, and approve infrastructure changes through pull requests, ensuring thorough vetting before implementation.
+
+Consistency and Standardization: Deploy infrastructure consistently across environments, reducing configuration drift and ensuring adherence to best practices.
+
+Auditing and Compliance: Gain visibility into changes made to infrastructure for auditing and compliance purposes.
+
+Risk Mitigation: Review and test changes before implementation, reducing the risk of unintended consequences or service disruptions.
+
+Scalability: Scale infrastructure efficiently by defining reusable modules and templates for different environments.
+
+Achievements using this setup include improved agility, reliability, and security in managing cloud infrastructure.
